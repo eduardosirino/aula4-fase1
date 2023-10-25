@@ -765,7 +765,12 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/lh3.googleusercontent.com\/lYQIk_VVCf_VYgUqE8bCIyv5yqiXztqnCFwaurofM9T6XVtnlA6zIjTNSkbu2Z_XVoXxNXsw1if6VulAXacAXT6MOANAaKdh9KcohZpykMsFoMSzz6-MEQ0QdlHybGqI5w=w1280"
+                         "value":"\/partes-historias\/popup.html#image=h1s1"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
