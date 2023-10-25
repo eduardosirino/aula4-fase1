@@ -362,12 +362,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/static.wixstatic.com\/media\/17d4ae_9248f1e5e68b4357af616a0a8650d08a~mv2.jpg\/v1\/fill\/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto\/17d4ae_9248f1e5e68b4357af616a0a8650d08a~mv2.jpg"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
+                         "value":"https:\/\/lh4.googleusercontent.com\/C6y3bKCtpmy-JlNDcaHbsA1cZlAmOVjPNSz0pdxKPmc7YHCZ0pLBZdGH1fcW14ziG9j_d7JTdUuMnhOaWq-NoKn_P6EEb_ZU_KKKdt41eyO-9fl0wWtxiQAy1w1Qnz5dKw=w1280"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
