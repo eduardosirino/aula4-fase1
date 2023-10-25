@@ -763,9 +763,24 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openFile",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"\/partes historias\/h1s3.jpg"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Aperte no espa\u00e7o para acessar a imagem"
                         }],
                  "type":"tilelayer",
                  "visible":true,
