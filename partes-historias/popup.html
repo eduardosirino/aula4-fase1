@@ -43,15 +43,15 @@
             if (imageName) {
                 const modal = document.getElementById('imageModal');
                 const imgElement = document.getElementById('modalImage');
-                imgElement.src = '/partes-historias/' + imageName + '.jpg';
-                
+                imgElement.src = '/partes-historias/' + imageName;
+
                 imgElement.onerror = function() {
                     alert('Erro ao carregar a imagem.');
-            };
+                };
 
-            imgElement.onload = function() {
-            modal.style.display = 'block';
-            };
+                imgElement.onload = function() {
+                    modal.style.display = 'block';
+                };
             } else {
                 alert('Nome da imagem não fornecido.');
             }

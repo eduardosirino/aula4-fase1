@@ -765,7 +765,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"\/partes-historias\/popup.html#image=h1s1"
+                         "value":"\/partes-historias\/popup.html?image=h1s1.jpg"
                         }, 
                         {
                          "name":"openWebsitePolicy",
