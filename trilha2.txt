@@ -4,23 +4,23 @@
 
 
 H1:
-s1 - I - https://static.wixstatic.com/media/17d4ae_3736b9a9e85d4315ac3f3a0da7576550~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_3736b9a9e85d4315ac3f3a0da7576550~mv2.jpg - 104
-s2 - F - https://static.wixstatic.com/media/17d4ae_5556d9cf24fa489dba6feab0712f5ea1~mv2.jpg/v1/fill/w_396,h_256,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_5556d9cf24fa489dba6feab0712f5ea1~mv2.jpg - 300
-s3 - L - https://static.wixstatic.com/media/17d4ae_cf5ac3c981c243d5a7d2e8c8ffd06c8c~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_cf5ac3c981c243d5a7d2e8c8ffd06c8c~mv2.jpg - 200
+s1 - I - https://static.wixstatic.com/media/17d4ae_3736b9a9e85d4315ac3f3a0da7576550~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_3736b9a9e85d4315ac3f3a0da7576550~mv2.jpg - na sala 104, na sala da direita, na quarta cadeira da terceira linha - 
+s2 - F - https://static.wixstatic.com/media/17d4ae_5556d9cf24fa489dba6feab0712f5ea1~mv2.jpg/v1/fill/w_396,h_256,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_5556d9cf24fa489dba6feab0712f5ea1~mv2.jpg - na sala 300, na arvore azul mais proxima do lago - 
+s3 - L - https://static.wixstatic.com/media/17d4ae_cf5ac3c981c243d5a7d2e8c8ffd06c8c~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_cf5ac3c981c243d5a7d2e8c8ffd06c8c~mv2.jpg - na sala 200, na planta de baixo a direita - 
 
 
 H2:
-s1 - O - https://static.wixstatic.com/media/17d4ae_032577f392f447f9896fc7fcd158905b~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_032577f392f447f9896fc7fcd158905b~mv2.jpg - 101
-s2 - F - https://static.wixstatic.com/media/17d4ae_9248f1e5e68b4357af616a0a8650d08a~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_9248f1e5e68b4357af616a0a8650d08a~mv2.jpg - 202
-s3 - D - https://static.wixstatic.com/media/17d4ae_f9bdf7c98f484960907975b43a688165~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_f9bdf7c98f484960907975b43a688165~mv2.jpg - 400
-s4 - M - https://static.wixstatic.com/media/17d4ae_1f7d2042c2c54e2aaec06feb477d7735~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_1f7d2042c2c54e2aaec06feb477d7735~mv2.jpg - 102
+s1 - O - https://static.wixstatic.com/media/17d4ae_032577f392f447f9896fc7fcd158905b~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_032577f392f447f9896fc7fcd158905b~mv2.jpg - na sala 101, na ultima cadeira de cima a esquerda - 
+s2 - F - https://static.wixstatic.com/media/17d4ae_9248f1e5e68b4357af616a0a8650d08a~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_9248f1e5e68b4357af616a0a8650d08a~mv2.jpg - na sala 202, no lixeiro - 
+s3 - D - https://static.wixstatic.com/media/17d4ae_f9bdf7c98f484960907975b43a688165~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_f9bdf7c98f484960907975b43a688165~mv2.jpg - na sala 400, na cadeira da 16 coluna e 5 linha - 
+s4 - M - https://static.wixstatic.com/media/17d4ae_1f7d2042c2c54e2aaec06feb477d7735~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_1f7d2042c2c54e2aaec06feb477d7735~mv2.jpg - na sala 102, na cadeira da direita da parte azul - 
 
 
-h3s4 - https://static.wixstatic.com/media/17d4ae_3acd677e19734d9fb1e3ab5297b92b5c~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_3acd677e19734d9fb1e3ab5297b92b5c~mv2.jpg - 201
+h3s4 - https://static.wixstatic.com/media/17d4ae_3acd677e19734d9fb1e3ab5297b92b5c~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_3acd677e19734d9fb1e3ab5297b92b5c~mv2.jpg - Na sala 201, na cadeira da direita proximo a entrada - 
 
-h4s1 - https://static.wixstatic.com/media/17d4ae_99affb6666fb461291af97f4f7721e9a~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_99affb6666fb461291af97f4f7721e9a~mv2.jpg - 103
+h4s1 - https://static.wixstatic.com/media/17d4ae_99affb6666fb461291af97f4f7721e9a~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_99affb6666fb461291af97f4f7721e9a~mv2.jpg - Na sala 103, na cadeira do altar - 
 
-hxs2 - https://static.wixstatic.com/media/17d4ae_8b78cf7ab2734379b72c14c2b92a04a1~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_8b78cf7ab2734379b72c14c2b92a04a1~mv2.jpg - 300
+hxs2 - https://static.wixstatic.com/media/17d4ae_8b78cf7ab2734379b72c14c2b92a04a1~mv2.jpg/v1/fill/w_604,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/17d4ae_8b78cf7ab2734379b72c14c2b92a04a1~mv2.jpg - na sala 300, na arvore de baixo, no segundo parque - 
 
 
 
@@ -31,7 +31,7 @@ Senha 2 = OFDM
 
 
 colocado historia 1 e dois - X
-colocado partes das senhas - 
+colocado partes das senhas - x
 colocado pistas - 
 colocado mapa - 
 colocado video - 
