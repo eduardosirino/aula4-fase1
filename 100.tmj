@@ -650,6 +650,27 @@
                  "id":76,
                  "name":"video inicial",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube.com\/embed\/-8pAm08ni_c?si=XGejXHnGOKEArOzC"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Aperte no espa\u00e7o para assistir o video"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":48,
