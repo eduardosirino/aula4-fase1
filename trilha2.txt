@@ -34,4 +34,4 @@ colocado historia 1 e dois - X
 colocado partes das senhas - x
 colocado pistas - 
 colocado mapa - 
-colocado video - 
+colocado video - x
