@@ -951,6 +951,22 @@
                  "id":97,
                  "name":"pista1",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/educoin.tech\/uploads\/mapas\/aula4-fase1\/imagens\/pistas\/h1s1.jpg"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Aperte no espa\u00e7o para acessar a imagem"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":170,
@@ -1043,6 +1059,22 @@
                  "id":98,
                  "name":"pista2",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/educoin.tech\/uploads\/mapas\/aula4-fase1\/imagens\/pistas\/h2s2.jpg"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Aperte no espa\u00e7o para acessar a imagem"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":170,
@@ -1139,7 +1171,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"http:\/\/front.workadventure.educoin.tech\/src\/front\/Components\/images\/mapas\/aula-4-fase-1\/aula-4-fase-1-imagens\/partes\/hxs2.jpg"
+                         "value":"https:\/\/educoin.tech\/uploads\/mapas\/aula4-fase1\/imagens\/partes\/h1s2.jpg"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1247,7 +1279,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/lh6.googleusercontent.com\/pJxDtoZhBK3JQTKq-CoxNC8XSDs_L6yBnVjz6iwRJlLyKm62-ZU5uSgRubZhoXteqsoiQfDdztblUQXvHsi7F3ehLsZz_-sSSu6Myb88iU7OZ1CPOXAqfVz3k-IU4atDQw=w1280"
+                         "value":"https:\/\/educoin.tech\/uploads\/mapas\/aula4-fase1\/imagens\/partes\/hxs2.jpg"
                         }, 
                         {
                          "name":"openWebsiteTrigger",

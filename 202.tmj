@@ -362,7 +362,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"http:\/\/front.workadventure.educoin.tech\/src\/front\/Components\/images\/mapas\/aula-4-fase-1\/aula-4-fase-1-imagens\/partes\/h2s2.jpg"
+                         "value":"https:\/\/educoin.tech\/uploads\/mapas\/aula4-fase1\/imagens\/partes\/h2s2.jpg"
                         }, 
                         {
                          "name":"openWebsiteTrigger",

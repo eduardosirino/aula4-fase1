@@ -4,23 +4,23 @@
 
 
 H1:
-s1 - I - https://lh3.googleusercontent.com/mKCll-Bn8bcRpXD_4m29WPqnn_NGW3D3_1ygAyTNVLB1uDtxX2uBk1GQOh7v4smLIqIo3Tznx1uxfmMo5HfHc0NZaWXpZtb33LW8mx7P9n5Vvo-Y7sNAniq8o082ok4RUg=w1280 - na sala 104, na sala da direita, na quarta cadeira da terceira linha - na sala 300, na praça de cima, na primeira árvore
-s2 - F - https://lh5.googleusercontent.com/OQRVEscp64JoaFODAh2mm5hpKLEzLD35FkENZIeAywVIY2YMY_Cir0GSqEArvIBRk5G5KzzZhM2vU_1JN5fB_d3CldUdViFezfWbFTayg6MNFVFZRKLSL_hTS6lAIuBcEg=w1280 - na sala 300, na arvore azul mais proxima do lago - 102
-s3 - L - https://lh3.googleusercontent.com/lYQIk_VVCf_VYgUqE8bCIyv5yqiXztqnCFwaurofM9T6XVtnlA6zIjTNSkbu2Z_XVoXxNXsw1if6VulAXacAXT6MOANAaKdh9KcohZpykMsFoMSzz6-MEQ0QdlHybGqI5w=w1280 - na sala 200, na planta de baixo a direita - 101
+s1 - I - na sala 104, na sala da direita, na quarta cadeira da terceira linha - na sala 300, na praça de cima, na primeira árvore x
+s2 - F - na sala 300, na arvore azul mais proxima do lago - na sala 102 na ultima cadeira da direita de cima x
+s3 - L - na sala 200, na planta de baixo a direita - na sala 101 na terceira cadeira sala da direita na terceira linha x
 
 
 H2:
-s1 - O - https://lh3.googleusercontent.com/sm1jGBPw0uBiKMt5rUiWuwhAaDrAsEAPNlATcTmvKtA7Nrbx3FFtft2vqtwQcCS2_cYSpo3Xj70Kytg5VSqeSSvRgSMlra4D0a2v1VPSNDAsfwK68wK2kyO4khpGrNKMpA=w1280 - na sala 101, na ultima cadeira de cima a esquerda - 400
-s2 - F - https://lh4.googleusercontent.com/C6y3bKCtpmy-JlNDcaHbsA1cZlAmOVjPNSz0pdxKPmc7YHCZ0pLBZdGH1fcW14ziG9j_d7JTdUuMnhOaWq-NoKn_P6EEb_ZU_KKKdt41eyO-9fl0wWtxiQAy1w1Qnz5dKw=w1280 - na sala 202, no lixeiro - 300
-s3 - D - https://lh6.googleusercontent.com/4wIOlmQe1uA-F78E8GqMGkMVcw8Ftf8BS2L0T0_fAa-w8NKUXKz2H_lYSUW8mDx6x3YAN2rYH6xhj9xx5KKv3uSA1F3yBx99JAJ-g0UGGP4HKhki7eEflaDXabb86LTwkg=w1280 - na sala 400, na cadeira da 16 coluna e 5 linha - 104
-s4 - M - https://lh3.googleusercontent.com/TLRu3T4I-ZVO7c2btaPZtjUkRqkwG88qyk8RPkeYinyeqV275Z8bcKXX0V-wPzvB2K7e6lp0XYHckaYd-_WdB2k5d0-tydUiTkR39pEHDqt0y9qadxX-JOgdJC5xuum6=w1280 - na sala 102, na cadeira da direita da parte azul - 204
+s1 - O - na sala 101, na ultima cadeira de cima a esquerda - na sala 400 na cadeira de coluna 9 e linha 3 x
+s2 - F - na sala 202, no lixeiro - na sala 300 no segundo pinheiro azul da direita de cima (contando ao contrario) x
+s3 - D - na sala 400, na cadeira da 16 coluna e 5 linha - na sala 104 no lixeiro x
+s4 - M - na sala 102, na cadeira da direita da parte azul - na sala 204 
 
 
-h3s4 - https://lh3.googleusercontent.com/iIp9g5LRx-R6w88RsmzLqf79nPEelfEtIJr2V0IsTOqfh8rtXo9Zw5mTQrKPZV-8g53b9mYcCbLr6FnckJCcsXGz74wyRgMfLmwm3qvXoJdAxx6xRcKmKQPxqxMhQPljYw=w1280 - Na sala 201, na cadeira da direita proximo a entrada - 200
+h3s4 - Na sala 201, na cadeira da direita proximo a entrada - na sala 200 
 
-h4s1 - https://lh6.googleusercontent.com/GXCWFMM9SA7Xuj8JRAxOJkSDIrcrhAqkOUncbmJV731gKwXhP3aK7ZQ0FLCq-8HHUQ78zkW3M2c_EWGq6iRh8ZLavSUkYFsWOEoItduykot6BFYX6cijdtEDb6IPEDGHnA=w1280 - Na sala 103, na cadeira do altar - 201
+h4s1 - Na sala 103, na cadeira do altar - na sala 201 
 
-hxs2 - https://lh6.googleusercontent.com/pJxDtoZhBK3JQTKq-CoxNC8XSDs_L6yBnVjz6iwRJlLyKm62-ZU5uSgRubZhoXteqsoiQfDdztblUQXvHsi7F3ehLsZz_-sSSu6Myb88iU7OZ1CPOXAqfVz3k-IU4atDQw=w1280 - na sala 300, na arvore de baixo, no segundo praça - 103
+hxs2 - na sala 300, na arvore de baixo, no segundo praça - na sala 103 
 
 
 
@@ -32,6 +32,6 @@ Senha 2 = OFDM
 
 colocado historia 1 e dois - X
 colocado partes das senhas - x
-colocado pistas - 
+colocado pistas - x
 colocado mapa - 
 colocado video - x

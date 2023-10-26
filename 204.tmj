@@ -321,6 +321,22 @@
                  "id":83,
                  "name":"pista",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/educoin.tech\/uploads\/mapas\/aula4-fase1\/imagens\/pistas\/h2s4.jpg"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Aperte no espa\u00e7o para acessar a imagem"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":42,
