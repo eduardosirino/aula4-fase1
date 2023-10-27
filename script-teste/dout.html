@@ -3,47 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Doçuras ou Travessuras</title>
+    <title>Redirecionamento</title>
     <style>
-        /* Estilos básicos para centralizar os botões e configurar a imagem de fundo */
+        /* Estilos básicos para centralizar a imagem */
         body {
-            background-image: url('https://educoin.tech/uploads/mapas/aula4-fase1/imagens/dout.jpg'); /* Ajuste para sua imagem de fundo */
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center center;
-            height: 100vh;
             display: flex;
-            justify-content: space-around;
+            justify-content: center;
             align-items: center;
+            height: 100vh;
             overflow: hidden;
         }
-
-        .btn {
-            padding: 10px 20px;
-            font-size: 20px;
-            cursor: pointer;
+        img {
+            max-width: 100%;
+            height: auto;
         }
     </style>
 </head>
 <body>
 
-    <button class="btn" id="docuras" onclick="inverterBotoes()">Doçuras</button>
-    <button class="btn" id="travessuras">Travessuras</button>
+    <img src="" alt="Imagem Dinâmica" id="imagemDeRedirecionamento">
 
     <script>
-        function inverterBotoes() {
-            // Inverte a ordem dos botões
-            var btnDoçuras = document.getElementById('docuras');
-            var btnTravessuras = document.getElementById('travessuras');
-
-            // Inverte a ordem no DOM
-            btnTravessuras.parentNode.insertBefore(btnTravessuras, btnDoçuras);
-
-            // Após 2 segundos redireciona para outra página
-            setTimeout(function() {
-                window.location.href = "https://meusite.com/outro-local"; // Altere para o URL desejado
-            }, 2000); // 2000 milissegundos = 2 segundos
+        // Função para obter parâmetros da URL
+        function getURLParameter(name) {
+            return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20')) || null;
         }
+
+        // Obtem o nome da imagem da URL
+        var imagemNome = getURLParameter('imagem');
+
+        // Se a imagemNome não for nulo, ajuste o src da imagem
+        if(imagemNome) {
+            document.getElementById('imagemDeRedirecionamento').src = imagemNome;
+        }
+
+        // Definindo um temporizador de 2 segundos
+        setTimeout(function() {
+            // Redireciona para o local desejado
+            window.location.href = "/100.tjm";
+        }, 2000); // 2000 milissegundos = 2 segundos
     </script>
 </body>
 </html>
