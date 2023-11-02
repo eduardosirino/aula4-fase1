@@ -373,6 +373,11 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"Aperte no espa\u00e7o para acessar a imagem"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":100
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -426,6 +431,11 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"Aperte no espa\u00e7o para acessar a imagem"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":100
                         }],
                  "type":"tilelayer",
                  "visible":true,
